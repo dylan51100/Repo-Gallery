@@ -1,0 +1,11 @@
+#all the dependancies
+node_modules/
+#secret configuration
+.env
+*.json
+.idea/
+.*log
+.vscode
+*.user
+*.sin
+*.swp
